@@ -1,0 +1,22 @@
+{
+  "name": "app-texas",
+  "version": "0.1.0",
+  "description": "This is a demo app for setting up gulp application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "js"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-contrib-copy": "0.0.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-less": "^3.0.2",
+    "gulp-minify-html": "^1.0.2"
+  }
+}
